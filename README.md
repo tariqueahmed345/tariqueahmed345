@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Tarique Ahmed 👋
 
-<!--
-**tariqueahmed345/tariqueahmed345** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Student
+💻 Learning Python & Software Development
+📚 Currently improving my programming and problem-solving skills
 
-Here are some ideas to get you started:
+### Tech I'm Learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Python
+* Git & GitHub
+* NumPy
+* Pandas
+* SQL
+
+### Goals
+
+* Build real-world projects
+* Improve my coding skills
+* Prepare for a software development internship
+
+📌 Currently learning, building, and improving every day.
